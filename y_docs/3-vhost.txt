@@ -1,0 +1,17 @@
+
+#临时dev,dev_ci2
+server {
+        listen       8102;
+        server_name  www.dev1.net;
+        location / {
+            root   E:/www/w_dev/w_a_ci/a2/v1.0_3.1_a2/web/public;
+            try_files $uri $uri/ /index.php?$query_string;
+        }
+        location ~ \.php$ {
+            root           E:/www/w_dev/w_a_ci/a2/v1.0_3.1_a2/web/public;
+            fastcgi_pass   127.0.0.1:9000;
+            fastcgi_index  index.php;
+            fastcgi_param  SCRIPT_FILENAME  $document_root$fastcgi_script_name;
+            include        fastcgi_params;
+        }
+}

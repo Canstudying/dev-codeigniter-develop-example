@@ -1,0 +1,20 @@
+================================
+web子目录说明：
+================================
+app		应用目录
+	cache		框架缓存
+	config		配置文件
+	controllers	控制器
+	core		这个暂没用上
+	helpers		这个暂没用上
+	hooks		这个暂没用上
+	language	这个暂没用上
+	libraries	这个暂没用上
+	logs		框架日志
+	models		模型
+	third_party	这个暂没用上
+	views		视频
+data	业务数据
+logs	业务日志
+public 	访问入口，只开放这个目录给nginx
+runtime	运行临时存
