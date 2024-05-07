@@ -1,6 +1,6 @@
 <?php
 /**
- * Demo09 邮箱
+ * Demo09 Redis
  */
 
 class Demo09 extends CI_Controller {
