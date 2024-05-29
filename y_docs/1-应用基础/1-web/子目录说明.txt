@@ -14,7 +14,11 @@ app		应用目录
 	models		模型
 	third_party	这个暂没用上
 	views		视频
-data	业务数据
-logs	业务日志
 public 	访问入口，只开放这个目录给nginx
-runtime	运行临时存
+	css			样式文件
+	js			JS文件
+	file		文件,如pdf、excel、word等
+	image		图片,用户上传的图片
+storage
+	data		业务数据、缓存数据
+	logs		业务日志、系统日志、API日志等

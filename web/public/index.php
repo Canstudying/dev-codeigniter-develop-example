@@ -109,9 +109,9 @@ switch (ENVIRONMENT)
  *
  * This variable must contain the name of your "system" directory.
  * Set the path if it is not in the same directory as this file.
- * 指定系统目录名称，可以自己改名，在实际应用中index文件在public文件夹中，一定需要改目录
+ * 指定系统目录名称，可以自己改名，在实际应用中index文件在public文件夹中，需要改目录 
  */
-	$system_path = '../../fra_ci/ci_system';		#注意这里，框架目录改至上2层
+	$system_path = '../../fra_ci/ci_system';		#注意目录改了上2层
 
 /*
  *---------------------------------------------------------------
@@ -250,7 +250,7 @@ switch (ENVIRONMENT)
 	define('SELF', pathinfo(__FILE__, PATHINFO_BASENAME));
 
 	// Path to the system directory
-	// 基本BASE路径，即为system路径，真实地址为fra_ci/ci_system
+	// 基本BASE路径，即为system路径
 	define('BASEPATH', $system_path);
 
 	// Path to the front controller (this file) directory
@@ -258,10 +258,6 @@ switch (ENVIRONMENT)
 
 	// Name of the "system" directory
 	define('SYSDIR', basename(BASEPATH));
-	
-	// 由于引入了public目录，需要重新定位目录
-	define('PUBPATH', dirname(__FILE__).DIRECTORY_SEPARATOR);
-	define('WEBPATH', PUBPATH.'../'.DIRECTORY_SEPARATOR);
 
 	// The path to the "application" directory
 	// 验证应用 application 文件目录正确性

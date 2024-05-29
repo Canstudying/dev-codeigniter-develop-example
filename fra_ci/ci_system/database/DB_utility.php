@@ -43,7 +43,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 /**
  * Database Utility Class
- * 数据公共类
+ * 数据库公共类
  *
  * @category	Database
  * @author		EllisLab Dev Team

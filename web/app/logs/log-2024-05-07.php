@@ -208,3 +208,72 @@ INFO - 2024-05-07 06:13:13 --> Loader Class Initialized
 INFO - 2024-05-07 06:13:13 --> Database Driver Class Initialized
 INFO - 2024-05-07 06:13:13 --> Model "BaseModel" initialized
 INFO - 2024-05-07 06:13:13 --> Controller Class Initialized
+INFO - 2024-05-07 07:21:24 --> Config Class Initialized
+INFO - 2024-05-07 07:21:24 --> Hooks Class Initialized
+DEBUG - 2024-05-07 07:21:24 --> UTF-8 Support Enabled
+INFO - 2024-05-07 07:21:24 --> Utf8 Class Initialized
+INFO - 2024-05-07 07:21:24 --> URI Class Initialized
+DEBUG - 2024-05-07 07:21:24 --> No URI present. Default controller set.
+INFO - 2024-05-07 07:21:24 --> Router Class Initialized
+INFO - 2024-05-07 07:21:24 --> Output Class Initialized
+INFO - 2024-05-07 07:21:24 --> Security Class Initialized
+DEBUG - 2024-05-07 07:21:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-05-07 07:21:24 --> Input Class Initialized
+INFO - 2024-05-07 07:21:24 --> Language Class Initialized
+INFO - 2024-05-07 07:21:24 --> Loader Class Initialized
+INFO - 2024-05-07 07:21:24 --> Database Driver Class Initialized
+INFO - 2024-05-07 07:21:24 --> Model "BaseModel" initialized
+INFO - 2024-05-07 07:21:24 --> Controller Class Initialized
+INFO - 2024-05-07 07:21:24 --> File loaded: E:\www\w_dev\w_a_a\a2\v1.0_3.1_a2\web\app\views\welcome_message.php
+INFO - 2024-05-07 07:21:24 --> Final output sent to browser
+DEBUG - 2024-05-07 07:21:24 --> Total execution time: 0.3316
+INFO - 2024-05-07 07:21:24 --> Config Class Initialized
+INFO - 2024-05-07 07:21:24 --> Hooks Class Initialized
+DEBUG - 2024-05-07 07:21:24 --> UTF-8 Support Enabled
+INFO - 2024-05-07 07:21:24 --> Utf8 Class Initialized
+INFO - 2024-05-07 07:21:24 --> URI Class Initialized
+INFO - 2024-05-07 07:21:24 --> Router Class Initialized
+INFO - 2024-05-07 07:21:24 --> Output Class Initialized
+INFO - 2024-05-07 07:21:24 --> Security Class Initialized
+DEBUG - 2024-05-07 07:21:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-05-07 07:21:24 --> Input Class Initialized
+INFO - 2024-05-07 07:21:24 --> Language Class Initialized
+ERROR - 2024-05-07 07:21:24 --> 404 Page Not Found: Faviconico/index
+INFO - 2024-05-07 07:22:51 --> Config Class Initialized
+INFO - 2024-05-07 07:22:51 --> Hooks Class Initialized
+DEBUG - 2024-05-07 07:22:51 --> UTF-8 Support Enabled
+INFO - 2024-05-07 07:22:51 --> Utf8 Class Initialized
+INFO - 2024-05-07 07:22:51 --> URI Class Initialized
+DEBUG - 2024-05-07 07:22:51 --> No URI present. Default controller set.
+INFO - 2024-05-07 07:22:51 --> Router Class Initialized
+INFO - 2024-05-07 07:22:51 --> Output Class Initialized
+INFO - 2024-05-07 07:22:51 --> Security Class Initialized
+DEBUG - 2024-05-07 07:22:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-05-07 07:22:51 --> Input Class Initialized
+INFO - 2024-05-07 07:22:51 --> Language Class Initialized
+INFO - 2024-05-07 07:22:51 --> Loader Class Initialized
+INFO - 2024-05-07 07:22:51 --> Database Driver Class Initialized
+INFO - 2024-05-07 07:22:51 --> Model "BaseModel" initialized
+INFO - 2024-05-07 07:22:51 --> Controller Class Initialized
+INFO - 2024-05-07 07:22:51 --> File loaded: E:\www\w_dev\w_a_a\a2\v1.0_3.1_a2\web\app\views\welcome_message.php
+INFO - 2024-05-07 07:22:51 --> Final output sent to browser
+DEBUG - 2024-05-07 07:22:51 --> Total execution time: 0.0209
+INFO - 2024-05-07 07:25:44 --> Config Class Initialized
+INFO - 2024-05-07 07:25:44 --> Hooks Class Initialized
+DEBUG - 2024-05-07 07:25:44 --> UTF-8 Support Enabled
+INFO - 2024-05-07 07:25:44 --> Utf8 Class Initialized
+INFO - 2024-05-07 07:25:44 --> URI Class Initialized
+DEBUG - 2024-05-07 07:25:44 --> No URI present. Default controller set.
+INFO - 2024-05-07 07:25:44 --> Router Class Initialized
+INFO - 2024-05-07 07:25:44 --> Output Class Initialized
+INFO - 2024-05-07 07:25:44 --> Security Class Initialized
+DEBUG - 2024-05-07 07:25:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-05-07 07:25:44 --> Input Class Initialized
+INFO - 2024-05-07 07:25:44 --> Language Class Initialized
+INFO - 2024-05-07 07:25:44 --> Loader Class Initialized
+INFO - 2024-05-07 07:25:44 --> Database Driver Class Initialized
+INFO - 2024-05-07 07:25:44 --> Model "BaseModel" initialized
+INFO - 2024-05-07 07:25:44 --> Controller Class Initialized
+INFO - 2024-05-07 07:25:44 --> File loaded: E:\www\w_dev\w_a_a\a2\v1.0_3.1_a2\web\app\views\welcome_message.php
+INFO - 2024-05-07 07:25:44 --> Final output sent to browser
+DEBUG - 2024-05-07 07:25:44 --> Total execution time: 0.0167
