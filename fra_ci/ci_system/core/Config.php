@@ -222,6 +222,7 @@ class CI_Config {
 
 	/**
 	 * Fetch a config file item with slash appended (if not empty)
+	 * 获取附加了斜线的配置文件项（如果不是空的）
 	 *
 	 * @param	string		$item	Config item name
 	 * @return	string|null	The configuration item or NULL if the item doesn't exist

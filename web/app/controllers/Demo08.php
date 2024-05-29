@@ -1,6 +1,6 @@
 <?php
 /**
- * Demo08 接口API
+ * Demo08 压缩
  */
 
 class Demo08 extends CI_Controller {

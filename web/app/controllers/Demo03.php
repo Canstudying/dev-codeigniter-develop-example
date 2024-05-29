@@ -10,7 +10,7 @@ class Demo03 extends CI_Controller {
 		$this->load->helper('file');
 	}
 	
-	//http://localhost:8102/demo03
+	//http://localhost:8032/demo03
 	public function index() {		
 		echo 'This is Demo03';
 	}

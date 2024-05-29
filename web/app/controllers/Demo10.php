@@ -1,6 +1,6 @@
 <?php
 /**
- * Demo10 待定
+ * Demo10 接口API
  */
 
 class Demo10 extends CI_Controller {

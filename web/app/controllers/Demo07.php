@@ -1,6 +1,6 @@
 <?php
 /**
- * Demo07 Redis
+ * Demo07 图片
  */
 
 class Demo07 extends CI_Controller {

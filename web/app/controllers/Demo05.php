@@ -1,6 +1,6 @@
 <?php
 /**
- * Demo05 SESSION、COKKIE
+ * Demo05 SESSION、COOKIE
  */
 
 class Demo05 extends CI_Controller {

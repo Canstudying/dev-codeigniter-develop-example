@@ -54,6 +54,7 @@ class CI_FTP {
 
 	/**
 	 * FTP Server hostname
+	 * 服务主机
 	 *
 	 * @var	string
 	 */
@@ -61,6 +62,7 @@ class CI_FTP {
 
 	/**
 	 * FTP Username
+	 * 用户名
 	 *
 	 * @var	string
 	 */
@@ -68,6 +70,7 @@ class CI_FTP {
 
 	/**
 	 * FTP Password
+	 * 密码
 	 *
 	 * @var	string
 	 */
@@ -75,6 +78,7 @@ class CI_FTP {
 
 	/**
 	 * FTP Server port
+	 * 服务端口，默认21
 	 *
 	 * @var	int
 	 */
@@ -134,7 +138,7 @@ class CI_FTP {
 		{
 			if (isset($this->$key))
 			{
-				$this->$key = $val;
+				$this->$key = $val;		#这里建议中上trim
 			}
 		}
 
@@ -147,6 +151,7 @@ class CI_FTP {
 
 	/**
 	 * FTP Connect
+	 * FTP 连接
 	 *
 	 * @param	array	 $config	Connection values
 	 * @return	bool

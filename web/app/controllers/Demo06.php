@@ -1,6 +1,6 @@
 <?php
 /**
- * Demo06 序列化
+ * Demo06 邮箱
  */
 
 class Demo06 extends CI_Controller {
